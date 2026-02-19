@@ -38,8 +38,8 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Siva340-ux&theme=react-dark&hide_border=true)
 
 ## 🔗 Let's Connect
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.vercel.app)
-![Insta](https://www.instagram.com/__shivz._/)
+
+![Insta][https://www.bing.com/th/id/OIP.yF6iJG-rWm0DDLFfJCMvNwHaEK?w=301&h=211&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2](https://www.instagram.com/__shivz._/)
 
 <div align="center">
 Thanks for visiting! ⭐ Star this if it helps.
