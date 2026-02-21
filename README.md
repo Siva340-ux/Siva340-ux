@@ -10,7 +10,7 @@
 </div>
 
 ## 🚀 About Me
-- 🔭 Working on **full-stack projects** like Bookstore API (Spring Boot + MySQL + JWT) & Flower Shop (React frontend)
+- 🔭 Working on **full-stack projects** like Bookstore API (Spring Boot + MySQL + JWT) & React frontend
 - 🌱 Learning **advanced Spring Security, DevOps (Render/Vercel), clean architecture**
 - 💻 Daily coding: **1-2 hours** on CRUD APIs, React hooks, Postman testing, Git workflows
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/siva-m-b06595264) | Siva M
